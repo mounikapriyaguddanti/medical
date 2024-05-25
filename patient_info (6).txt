@@ -1,0 +1,16 @@
+Patient Information:
+
+Patient ID: 5422
+Name: Vivek.G
+procedure: Check-up
+Age: 35
+Amount: 3000
+Date: 2024-03-20
+
+Patient ID: 5400
+Name: M.Harini
+procedure: Surgery
+Age: 41
+Amount: 10000
+Date: 2024-03-20
+
